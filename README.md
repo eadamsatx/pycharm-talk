@@ -1,11 +1,11 @@
 # A few reasons I like PyCharm
 
 ## 101: Navigation
-open symbol (⌘-O)
-open file (Shift-⌘-O)
-Find Usages (Option+F7 or right click/find usages)
-Go to declaration (⌘-click)
-Navigate back/forward through cursor positions (⌘[, ⌘])
+- open symbol (⌘-O)
+- open file (Shift-⌘-O)
+- Find Usages (Option+F7 or right click/find usages)
+- Go to declaration (⌘-click)
+- Navigate back/forward through cursor positions (⌘[, ⌘])
 
 
 
@@ -34,14 +34,14 @@ Demo
 
 
 ## 103: Implementation & Refactoring
-code completion (^Space)
-Option+up to select innermost thing, repeat to expand
-Extract method/variable
-Move lines
-Live templates
-autoformat
-autoimport new names (opt+enter)
-type annotation autocomplete
+- code completion (^Space)
+- Option+up to select innermost thing, repeat to expand
+- Extract method/variable
+- Move lines
+- Live templates
+- autoformat
+- autoimport new names (opt+enter)
+- type annotation autocomplete
 
 
 
